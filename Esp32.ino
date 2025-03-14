@@ -7,7 +7,7 @@
 MAX30105 particleSensor;
 
 // Replace with your Blynk credentials
-char auth[] = "YOUR_BLYNK_AUTH_TOKEN";
+char auth[] = "3----------6eab--------86L----MF";
 char ssid[] = "YOUR_WIFI_SSID";
 char pass[] = "YOUR_WIFI_PASSWORD";
 
